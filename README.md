@@ -64,7 +64,7 @@ in a format that is ready for model input.
 
 ## Results
 
-![My Image](./results.jpg)
+![My Image](./results.png)
 
 
 The experiment focused on implementing a pruning defense in a neural network to counteract backdoor
