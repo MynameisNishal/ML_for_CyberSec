@@ -64,6 +64,9 @@ in a format that is ready for model input.
 
 ## Results
 
+![My Image](./results.jpg)
+
+
 The experiment focused on implementing a pruning defense in a neural network to counteract backdoor
 attacks. This process involved selectively removing channels based on their activation levels and monitoring the
 consequent impact on accuracy. The pruning was executed until the model’s accuracy experienced predefined
